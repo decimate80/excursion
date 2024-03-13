@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+}
+.hd{
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.hdlink{
+    text-align: center;
+   
+}
+.link1{
+    color: aquamarine;
+    font-size: 16px;;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+}
+.soon{
+    margin: 10px 0;
+  
+    
+ 
+}
+.hdfirst{
+    text-align: center;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+.hdinfo{
+    text-align: center;
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+footer{
+    text-align: right;
+}
